@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victorie obtained in the Kingdom of Scotland by the Marquis of Argyle, with 5000. horse and foot, against the rebellious a[r]my, under the command of the Lord Lanerick, with the number killed and taken. And the declaration of the Scots famous engenier Senndy Hambleton, against Monro, touching his design to have fired all the cole-pits in Northumberland, and other parts, and his protestation to joyn with the English, to cut the throats of all such barbarous Scots. Also, Monroes retreating into Scotland, and Lieut. Gen. Crumwell, and Col. Gen. Lambert pursuing them. Likewise, the remonstrance of the Kingdom of Scotland, and their propositions to the Kingdom of England, concerning the Kings Majesty, their army, and covenant. Commanded to be printed and published, and read in all the parish churches, throughout the said kingdom. Signed, A. Ker: Cler.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85646</idno>
+            <idno type="STC">Wing G1786</idno>
+            <idno type="STC">Thomason E464_4</idno>
+            <idno type="STC">ESTC R205128</idno>
+            <idno type="EEBO-CITATION">99864565</idno>
+            <idno type="PROQUEST">99864565</idno>
+            <idno type="VID">162230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85646)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162230)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victorie obtained in the Kingdom of Scotland by the Marquis of Argyle, with 5000. horse and foot, against the rebellious a[r]my, under the command of the Lord Lanerick, with the number killed and taken. And the declaration of the Scots famous engenier Senndy Hambleton, against Monro, touching his design to have fired all the cole-pits in Northumberland, and other parts, and his protestation to joyn with the English, to cut the throats of all such barbarous Scots. Also, Monroes retreating into Scotland, and Lieut. Gen. Crumwell, and Col. Gen. Lambert pursuing them. Likewise, the remonstrance of the Kingdom of Scotland, and their propositions to the Kingdom of England, concerning the Kings Majesty, their army, and covenant. Commanded to be printed and published, and read in all the parish churches, throughout the said kingdom. Signed, A. Ker: Cler.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G H.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept ye 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162230:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORIE OBTAINED IN THE Kingdom of Scotland BY The Marquis of <hi>Argyle,</hi> with 5000. Horſe and Foot, againſt the Rebellious A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my, under the Command of the Lord <hi>Lanerick,</hi> with the number killed and taken.</p>
+            <p>AND The Declaration of the <hi>Scots</hi> famous Engenier <hi>Saundy Hambleton,</hi> againſt <hi>Monro,</hi> touching his Deſign to have fired all the Cole-pits in <hi>Northumberland,</hi> and o<g ref="char:EOLhyphen"/>ther parts, and his Proteſtation to joyn with the <hi>Engliſh,</hi> to cut the throats of all ſuch barbarous <hi>Scots.</hi>
+            </p>
+            <p>ALSO, <hi>Monroes</hi> retreating into <hi>Scotland,</hi> and Lieut. Gen. <hi>Crumwell,</hi> and Col. Gen. <hi>Lambert</hi> purſuing them.</p>
+            <p>LIKEWISE, The <hi>Remonſtrance</hi> of the Kingdom of <hi>Scotland,</hi> and their Propoſitions to the Kingdom of <hi>England,</hi> concer<g ref="char:EOLunhyphen"/>ning the Kings Majeſty, their Army, and Covenant.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>COmmanded to be Printed and publiſhed, and read in all the Pariſh Churches, throughout the ſaid Kingdom.</p>
+                  <closer>
+                     <signed>Signed, A. Ker: Cler.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Imprinted at <hi>London,</hi> for <hi>G H.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162230:2"/>
+            <pb n="1" facs="tcp:162230:2"/>
+            <head>The Reſolution of the Generall Aſſembly of the Kingdom of <hi>Scotland,</hi> concerning the Kings Majeſty, and their Army in <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Generall Aſſembly of the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> have ſeriouſly weighed and conſidered of the preſent Engagement againſt <hi>England,</hi> and the involving of both Nations in a moſt bloody and inteſtine War, the ſaid Generall Aſſembly in the name of them<g ref="char:EOLhyphen"/>ſelves, and the whole Kingdome doe declare.</p>
+            <p n="1">1. That they ſearch narrowly into the ſins which have procured ſo great judgments, and ſo ſad an interruption of the worke of God, that they examine themſelves, conſider their wayes, be much in humiliation and prayer, ſtudy a reall and practicall Reformation, That they alſo mourne and ſigh for the abominations of the Land, and ſtand in the gap to turne away the wrath. Amongſt all theſe fearfull ſins, the violation of the Solemne League and Covenant, would not be forgotten, but ſeriouſly laid to heart, as that which eminently provoketh the Lord,
+<pb n="2" facs="tcp:162230:3"/>and procureth his judgements to be powred forth not only upon perſons and families, but alſo upon States and Kingdomes.</p>
+            <p>Covenant-breakers though in common things, are re<g ref="char:EOLhyphen"/>ckoned by the Apoſtle in that Catologue of the abomi<g ref="char:EOLhyphen"/>nations of the Gentiles: But among the people of God, where his great name is interpoſed, the breach of Cove<g ref="char:EOLhyphen"/>nant even in meaner matters, <hi>ſuch as the ſetting of ſervants at liberty provoketh the Lord</hi> to ſay, <hi>Behold I proclaime a li<g ref="char:EOLhyphen"/>berty for you (ſaith the Lord) to the ſword, to the peſtilence, and to the famine, and I will give the men that hath tranſgre<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dwy Covenant,</hi> and (expreſſely mentioning Princes) he addes, <hi>I will give them into the hands of their enimies.</hi> The Hiſtory of the Gibeonites, who ſurreptitiouſly procured the Covenant made to ſpare them, and whom <hi>Saul</hi> ſome ages thereafter in his zeale to the children of <hi>Iſrael</hi> and <hi>Judah</hi> ſought to flay, as being curſed Cananites, eviden<g ref="char:EOLhyphen"/>ced with what vengeance, the Lord followeth Covenant-breakers, whereof there wants not in prophane Hiſtory alſo both forrigne and domeſticke examples: Therefore let all the inhabitants of the Land of whatſoever ranke, ſeriouſly ponder how terrible judgements the violation of a Covenant of recently made, ſo adviſedly, and in ſo weighty matters, may draw on, if not timouſly preven<g ref="char:EOLhyphen"/>ted by ſpeedy repentance.</p>
+            <p n="2">2. That they ſo reſpect and honour Authority, as that they bee not the ſervants of men, nor give obedince to the will and authority of Rulers in any thing which may not coſinſt with the word of God, but ſtand faſt in the liber<g ref="char:EOLhyphen"/>ty wherewith Chriſt hath made them fre, and obey God rather then man.</p>
+            <p n="3">3. That they carefully avoid the dangerous rocks and
+<pb n="3" facs="tcp:162230:3"/>ſnares of this time, whereby many are taken &amp; broken.</p>
+            <p n="4">4. That they do not concur in, nor any way aſſiſt this pre<g ref="char:EOLhyphen"/>ſent Ingagement, as they would not partake in other mens ſines, and ſo receive of their plagues, but that by the grace &amp; aſſiſtance of Chriſt they ſtedfaſtly reſolve to ſuffer the rod of the wicked, and the utmoſt which wicked mens malice can afflict them with, rather then to put forth their hand to iniquity.</p>
+            <p n="5">5. That they ſuffer not themſelves to be abuſed with fair pretences and profeſſions uſuall in the mouthes of theſe that carry on this deſigne, &amp; often publiſhed in their papers, But remember that the fouleſt actions have not wanted ſpecious pretences; And if they who killed the Apoſtles did both pretend &amp; intend to do God good ſer<g ref="char:EOLhyphen"/>vice, what marvaile that they who ingaged againſt the Covenant pretend to ingage for it.</p>
+            <p>At the Aſſemblies 1598, 1599, 1600 It was declared with many vowes and atteſtations by the King, Stateſemen, and Miniſters who are aſpiring to prelacy, that they intended no ſuch thing as a change of the Government of the Kirke or an introducing of Epiſcopacy, yet they were really do<g ref="char:EOLhyphen"/>ing what they diſclamed and profeſſed not to doe. And ſuppoſe that ſome who have an active hand in carrying on the preſent publike affaires, have no deſigne either to deſtroy Religion, or utterly to ſlieght it: for it cannot be denyed, but the very undertaking of this War, ſets the once ſuppreſſed Malignants on work againe, and ſucceſſe therein puts them in a capacity to ſet up according to their principles, aboliſhed and abjured corruptions, which will be the more hardly hindered, conſidering his Majeſt<g ref="char:EOLhyphen"/>ies propenſion, and profeſſed reſolution that way, Eſpeci<g ref="char:EOLhyphen"/>ally ſeeing his Majeſties conceſſions (though it hath been oft deſired) have never been plainly declared unſatisfact<g ref="char:EOLhyphen"/>ory by the Parliament.</p>
+            <pb n="4" facs="tcp:162230:4"/>
+            <p>The Kings negative voice aſſerted in the papers of the Commiſſioners of this Kingdom unto <hi>England,</hi> which are owned in the late Declaration to the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as the ſenſe of this Kingdom, conſidered in relation to Religion, makes the danger yet the greater and more palpable, yea, may reach further to ſhake and unſettle Re<g ref="char:EOLhyphen"/>ligion eſtabliſhed in this Land. If to the premiſes this be added which is not only often declared, but alſo deman<g ref="char:EOLhyphen"/>ded: That his Maj. be brought to one of his houſes in ho<g ref="char:EOLhyphen"/>nour, freedom, and ſafety, which may infer the admitting of his Maj. to the free exerciſe of his Royall power, be<g ref="char:EOLhyphen"/>fore ſecurity had from him for Religion, or application made to him for the ſame, who ſees not now what hazard Religion runs, certainly greater then a good intention can ſalve.</p>
+            <p n="6">6. That they do not miſtake, or miſunderſtand the nature of the true Reformed Religion, and of the Government of Jeſus Chriſt, as if thereby either the prerogative of Kings, Priviledges of Parl. or Liberties of Burges, and o<g ref="char:EOLhyphen"/>ther Corporations were any waies hurt or weakened: whereas indeed Religion is the main pillar and upholder of civill authority, or Magiſtracie, and it is the reſiſting, &amp; not the receiving of the Government of Chriſt, which hath overturned civill powers. If the Throne be eſtabliſh<g ref="char:EOLhyphen"/>ed by righteouſneſs (as we are plainly taught by the word of God) then it is overthrown by unrighteouſneſſe and iniquity.</p>
+            <p n="7">7. That they beware of all things which may inſnare their Conſciences, as evill councell, evill company, falſe informations, raſh promiſes, and eſpecially that they be<g ref="char:EOLhyphen"/>ware of taking any Oaths, ſubſcribing any Bonds, which may relate to the Covenant and Cauſe of God, unleſs ſuch
+<pb n="5" facs="tcp:162230:4"/>Oaths or bonds be approved by the generall Aſſembly, or their Commiſſioners for the publike affaires of the Kirk.</p>
+            <p n="8">8. That they do not caſt away their confidence, nor ſink into diſpair, becauſe of the preſent dangers and difficul<g ref="char:EOLhyphen"/>ties, but live by faith, wait for better times, and continue ſtedfaſt as ſeeing him who is inviſible, firmly believing that ſuch a courſe as is not of God but againſt him, will come to naught.</p>
+            <p n="9">9. To remember, that as the violation of the Covenant by ſome in <hi>England</hi> doth not ſet us free from the obſerva<g ref="char:EOLhyphen"/>tion thereof, and as no Laws nor Authority on earth can abſolve us from ſo ſolemn an obligation to the moſt high God (which not only hath been profeſſed by this Kirk, but in a Petition of the City of <hi>London,</hi> and in publike Teſtimonies of many of the Miniſtery of <hi>England</hi> So we are not acquited and aſſoiled from the obligation of our ſolemn Covenant, becauſe of the troubles and confuſions of the times, But that in the worſt of times all thoſe duties whereunto by Covenant we obliege our ſelves, do ſtill lie upon us, for we have ſworn (and muſt perform it) con<g ref="char:EOLhyphen"/>cerning that cauſe and Covenant wherein we ſolemnly ingaged, <hi>That we ſhall all the dayes of our lives Zealouſly and conſtantly continue therein againſt all oppoſition, and promove the ſame according to our power againſt all Impediments what<g ref="char:EOLhyphen"/>ſoever.</hi> And if againſt all lets and Impediments whatſoe<g ref="char:EOLhyphen"/>ver, then the altering of the way of oppoſition, or of the kind of Impediments doth not alter the nature, or tye of the Covenant, but we are obliged to all the duties there<g ref="char:EOLhyphen"/>in contained.</p>
+            <closer>
+               <signed>Signed A. Ker. Cler. Regiſt.</signed>
+            </closer>
+         </div>
+         <div type="continuation_of_text">
+            <pb n="6" facs="tcp:162230:5"/>
+            <p>By letters from the North it is advertized, That the Marquis of <hi>Argyle</hi> hath raiſed a gallant Army, conſiſting of 5000. Horſe and Foot, and hath fallen upon the new levied forces, Commanded by the E. of <hi>Lanerick,</hi> totally routing and diſperſing the ſame, and hath killed and taken about 1000. of them as our intelligence ſaith; Whereup<g ref="char:EOLhyphen"/>on, the Committee of Eſtates ſent poſt to <hi>Monro,</hi> to re<g ref="char:EOLhyphen"/>mand him back, who hearing of the ſaid tydings, vowed reveng upon the <hi>Engliſh,</hi> calling a Councel of War at <hi>Morpeth</hi> in <hi>Northumberland,</hi> who reſolved to fire all the Coal-pits in thoſe parts, that ſo they might augment the price of Scottiſh Coal, and take an advantage upon this Kingdom, for their late loſſe. But Lieut. Gen. <hi>Crumwells</hi> horſe purſuing them ſo faſt, they choſe rather to bear plunder and pillage, and to ſhift for their lives, rather then to act any further deſign to retard their liberty, now ha<g ref="char:EOLhyphen"/>ſtening over the River <hi>Tweed:</hi> Some report that the Lieut. Gen. wil purſue them into <hi>Scotland,</hi> by the way of <hi>Berwick,</hi> and Col. Gen. <hi>Lambert</hi> by the way of <hi>Carliſle,</hi> divers of the County people go along with them, to retake and bring back their Cattell again; ſure it will be juſtice to make reſtitution.</p>
+            <p>Dear <hi>Saundy Hambleton</hi> (ſo called by the Lords) the Scots famous Engineer, hath declared againſt <hi>Monro,</hi> ſay<g ref="char:EOLhyphen"/>ing, That ſuch was his barbarous uſage of the <hi>Engliſh,</hi> that he hoped they would all riſe, and cut their throats, proteſting that he would joyn and engage with them, and leave not a Scot alive, that ſhould execute ſuch injuſtice and inhumain Barbariſme: Whereupon, he diſſerted them, leaving the Artillery, and all the Gim tricks behind.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
